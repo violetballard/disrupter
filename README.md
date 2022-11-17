@@ -18,3 +18,26 @@ The Creative Commons Attribution 4.0 International license was chosen because we
 We welcome for people to make a Pull Request if they would like to share optional rules, equipment, game modes, or platoons to become an official part of Disrupter. There are some rough guidelines for creating this content; however, there are not yet formalized design sequences for Disrupter. Contributions to the core rules, game modes, and equipment will only be integrated with great thought. The core rules are the kernel of an extensible system, this game is built with the Unix philosophy of small interrelated parts.
 
 We give fair warning that the license does allow for commercial use, and RV Games or someone else can produce products using these rules that make money. Like all open source projects, you will not receive any compensation from commercial derivatives of the work you contribute to the project. If you feel this is unfair, you can create a fork or sell your own derived product.
+
+## **Table of Contents**
+1. [Main Rules][rules]
+    - [Panic Table][panic]
+2. [Equipment][equipment]
+    - [Armor][armor]
+    - [Weapons][weapons]
+    - [Bots][bots]
+    - [Vehicles][vehicles]
+3. [Game Modes][modes]
+    - [Last Man Standing][lms]
+    - [Campaign][campaign]
+
+[rules]: /rules/core/main.md
+[panic]: /rules/core/panic.md
+[equipment]: /equipment/main.md
+[armor]: /equipment/armor.md
+[weapons]: /equipment/weapons.md
+[bots]: /equipment/bots.md
+[vehicles]: /vehicles/main.md
+[modes]: /game_modes/main.md
+[lms]: /game_modes/lms.md
+[campaign]: /game_modes/campaign.md
