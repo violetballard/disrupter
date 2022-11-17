@@ -15,21 +15,22 @@ Eventually, we want the game to develop infantry scale vehicle rules (atvs, jeep
 The Creative Commons Attribution 4.0 International license was chosen because we want people to be able to take these rules and run with them. However, we are not running a licensing department and provide no support. RV Games does want to make these rules into a published product at some point in time; however, we plan to keep the Disrupter rules free and open source on github in perpetuity.
 
 ## **Contributing**
-We welcome for people to make a Pull Request if they would like to share optional rules, equipment, game modes, or platoons to become an official part of Disrupter. There are some rough guidelines for creating this content; however, there are not yet formalized design sequences for Disrupter. Contributions to the core rules, game modes, and equipment will only be integrated with great thought. The core rules are the kernel of an extensible system, this game is built with the Unix philosophy of small interrelated parts.
+We welcome for people to make a Pull Request if they would like to work on items on the [TODO][todo] list, share optional rules, equipment, game modes, or platoons to become an official part of Disrupter. There are some rough guidelines for creating this content; however, there are not yet formalized design sequences for Disrupter. Contributions to the core rules, game modes, and equipment will only be integrated with great thought. The core rules are the kernel of an extensible system, this game is built with the Unix philosophy of small interrelated parts.
 
-We give fair warning that the license does allow for commercial use, and RV Games or someone else can produce products using these rules that make money. Like all open source projects, you will not receive any compensation from commercial derivatives of the work you contribute to the project. If you feel this is unfair, you can create a fork or sell your own derived product.
+We give fair warning that the license does allow for commercial use, so like all open source projects, you will not receive any compensation from commercial derivatives of the work you contribute to the project. If you feel this is unfair, you can create a fork with a different license or sell your own derived product, those are your rights under this license as well.
 
 ## **Table of Contents**
-1. [Main Rules][rules]
+1. [Core Rules][rules]
     - [Panic Table][panic]
-2. [Equipment][equipment]
+    - [Vehicles][vehicle_rules]
+2. [Game Modes][modes]
+    - [Last Man Standing][lms]
+    - [Campaign][campaign]
+3. [Equipment][equipment]
     - [Armor][armor]
     - [Weapons][weapons]
     - [Bots][bots]
     - [Vehicles][vehicles]
-3. [Game Modes][modes]
-    - [Last Man Standing][lms]
-    - [Campaign][campaign]
 
 [rules]: /rules/core/main.md
 [panic]: /rules/core/panic.md
@@ -41,3 +42,5 @@ We give fair warning that the license does allow for commercial use, and RV Game
 [modes]: /game_modes/main.md
 [lms]: /game_modes/lms.md
 [campaign]: /game_modes/campaign.md
+[vehicle_rules]: /rules/core/vehicles.md
+[todo]: /TODO.md
