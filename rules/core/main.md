@@ -135,9 +135,11 @@ There are three Classes of Units that enable the Chain of Command. All Units are
 - Bot, I:40
 
 ### <a name="rule9.orders"></a>**Giving Orders**
-Officers are able to give Orders to lower ranking Officers (CO to NCO) and Aoldiers. Orders may be given over the radio. There is no range to radio, and you may assume that every Unit has access to a helmet radio. Orders are short written statements recorded on a [Platoon Card][platoon]. Units follow their Orders without deviation with small exceptions for Taking Cover (See [Rule 13](#rule13)), avoiding Fire (See [Rule 16 - Firing](#rule16.firing)), and returning with Reaction Fire (See [Rule 15](#rule15)) for self-defense.
+Officers are able to give Orders to lower ranking Officers (CO to NCO) and Aoldiers. Orders may be given over the radio. There is no range to radio, and you may assume that every Unit has access to a helmet radio. Orders are short written statements recorded on a [Platoon Card][platoon]. They take the form of a single, direct sentence. Units follow their Orders without deviation with small exceptions for Taking Cover (See [Rule 13](#rule13)), avoiding Fire (See [Rule 16 - Firing](#rule16.firing)), and returning with Reaction Fire (See [Rule 15](#rule15)) for self-defense.
 
-Orders for NCOs should be broad enough to give them the autonomy to complete their outcomes. You are not giving turn-by-turn instructions. Orders for Soldiers should be more specific. 
+Orders for NCOs should be broad enough to give them the autonomy to complete their outcomes. You are not giving turn-by-turn instructions. Orders for Soldiers should be more specific.
+
+These rules are fuzzy on purpose. Striker takes a lot of space describing what Orders look like, and I think it sucks a lot of the fun out of giving Orders.
 
 ### <a name="rule9.leading"></a>**Leading**
 Officers and anyone they Lead are able to freely use Movement Actions (See [Rule 14](#rule14)) and Battlefield Actions (See [Rule 16](#rule16)). An Officer is able to Lead any Units that are within Close Range (See [Rule 5 - Range Bands](#rule5.range)). Bots are unable to follow Orders and can only be Led. Bots can only Retreat and Take Cover and conduct Reaction Fire (See [Rule 15](#rule15)) for self-defense if they are not within Close Range of an Officer ((See [Rule 5 - Range Bands](#rule5.range))).
@@ -238,12 +240,12 @@ If an enemy stand with LOS has orders that indicate they should Fire in that sit
 ### <a name="rule16"></a>**Rule 16 - Battlefield Actions**
 Resolve actions one stand at a time, one Unit at a time. Units must declare targets and the action they will take before resolving actions for the entire Stand.
 
-#### <a name="rule16.spot"></a>***Rule 16 - Spotting***
+#### <a name="rule16.spot"></a>***Spotting***
 You can attempt to Spot an enemy Stand within LOS by making an Instinct Check in order to draw a target out of Cover, paint a target for a missile, or identify a target for a sniper. You can track spotting on the [Platoon Card][platoon] or using markers on the board.
 
 *[streamline] All Spotting Checks are automatically Successful.*
 
-#### <a name="rule16.firing"></a>***Rule 16 - Firing***
+#### <a name="rule16.firing"></a>***Firing***
 Units may choose to Fire on individual Units or a whole stand. Units with multiple Weapons may only use one Weapon per activation.
 
 The attacker must have LOS on the target. The attacker makes an Instinct Check and the target makes an Armor Save (See [Rule 7](#rule7)). Use the following table to resolve Fire.
