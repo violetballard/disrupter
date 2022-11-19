@@ -1,4 +1,5 @@
 # Panic Tables
+Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up!
 ## Team
 
 | d20 | Effect                                                                                                                                          |
@@ -19,34 +20,34 @@
 | 13  | Routed, Run away towards cover and the edge of the board, need to be rallied before they run off the Board and are removed from play, +1 Stress |
 | 14  | Routed, Run away towards cover and the edge of the board, need to be rallied before they run off the Board and are removed from play, +1 Stress |
 | 15  | Routed, Run away towards cover and the edge of the board, need to be rallied before they run off the Board and are removed from play, +1 Stress |
-| 16  |                                                                                                                                                 |
-| 17  |                                                                                                                                                 |
-| 18  |                                                                                                                                                 |
-| 19  |                                                                                                                                                 |
-| 20  |                                                                                                                                                 |
+| 16  | Status Effect                                                                                                                                   |
+| 17  | Status Effect                                                                                                                                   |
+| 18  | Status Effect                                                                                                                                   |
+| 19  | Status Effect                                                                                                                                   |
+| 20  | Status Effect |
 |     |                                                                                                                                                 |
 
 ## Platoon
-| d20 | Effect |
-| --- | ------ |
-| 1   |        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
-| 7   |        |
-| 8   |        |
-| 9   |        |
-| 10  |        |
-| 11  |        |
-| 12  |        |
-| 13  |        |
-| 14  |        |
-| 15  |        |
-| 16  |        |
-| 17  |        |
-| 18  |        |
-| 19  |        |
-| 20  |        |
-|     |        |
+| d20 | Effect        |
+| --- | ------------- |
+| 1   | Status Effect |
+| 2   | Status Effect |
+| 3   | Status Effect |
+| 4   | Status Effect |
+| 5   | Status Effect |
+| 6   | Status Effect |
+| 7   | Status Effect |
+| 8   | Status Effect |
+| 9   | Status Effect |
+| 10  | Status Effect |
+| 11  | Status Effect |
+| 12  | Status Effect |
+| 13  | Status Effect |
+| 14  | Status Effect |
+| 15  | Status Effect |
+| 16  | Status Effect |
+| 17  | Status Effect |
+| 18  | Status Effect |
+| 19  | Status Effect |
+| 20  | Status Effect |
+|     |               |
