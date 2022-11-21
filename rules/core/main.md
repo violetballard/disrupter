@@ -5,9 +5,9 @@
 
 ## <a name="setup"></a> **Set Up**
 ### <a name="rule1"></a> **Rule 1 - Number of Players**
-Disrupter is currently designed for two-sided battles. Rules for having three or more platoons facing each other will probably come later with the addition of further game modes. However, each side is cooperative and can be asymmetrical. It is best suited to cames that are 1v1 all the way up to games that are 3v3. When multiple players are on the same side, they play cooperatively with each player taking on the role of an Officer within their Platoon (see [Rule 9](#rule9)). It is possible to play the game solo as well, you just have to control the opposing force, there are no special solo rules at the moment. Having someone who knows the rules well play as a referee can definitely make gameplay smoother, but a referee is not a requirement.
+Disrupter is currently designed for two-sided battles. Rules for having three or more platoons facing each other will probably come later with the addition of further game modes. However, each side is cooperative and can be asymmetrical. It is best suited to games that are 1v1 all the way up to games that are 3v3. When multiple players are on the same side, they play cooperatively with each player taking on the role of an Officer within their Platoon (see [Rule 9](#rule9)). It is possible to play the game solo as well, you just have to control the opposing force, there are no special solo rules at the moment. Having someone who knows the rules well play as a referee can definitely make gameplay smoother, but a referee is not a requirement.
 
-1v2+ (up to 5) games take on the vibe of a ttrpg with one player operating as referee to provide a co-operative experience for the other players at the table. See the Campaign game mode for more ideas about how to play this way.
+1v2+ (up to 5) games take on the vibe of a ttrpg with one player operating as referee to provide a co-operative experience for the other players at the table. See the [Campaign][campaign] game mode for more ideas about how to play this way.
 
 ### <a name="rule2"></a> **Rule 2 - Board**
 Disrupter is designed for 24"x24" or 36"x36" boards containing approximately 50% Terrain. This is to ensure that games stay short and engaging unlike with a larger board.
@@ -62,25 +62,26 @@ You do not need to play on a hex grid (see [Rule 2]("rule2) and [Rule 4 - Basing
     1 Hex = 50mm = 2"
 
 ## <a name="rule6"></a> **Rule 6 - Stats**
-All statistics are provided as a percentage likelihood of completing a risky Action (See [Rule 7](#rule7)) unless stated otherwise.
+All statistics are provided as a percentage likelihood of completing a risky Action (See [Rule 7](#rule7)) unless stated otherwise. The maximum level of all Stats is 80% to accomodate for the boost given by Advantage (See [Rule 7](#rule7)).
 
 | Stat (Abbreviation) | Description                                                                                                                    | Determined By |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| Instinct (I)        | Likelihood of making Battlefield Actions (See Rule #)                                                                          | Class         |
-| Armor (A)           | Likelihood of taking damage from Fire (See Rule #)                                                                             | Equipment     |
-| Wounds (W)          | Number of Wounds taken before incapacitation or death (See Rule #)                                                             | Equipment     |
+| Instinct (I)        | Likelihood of making Battlefield Actions (See [Rule 16](#rule16))                                                                          | Class         |
+| Armor (A)           | Likelihood of taking damage from Fire (See [Rule 16 - Firing](#rule16.firing))                                                                             | Equipment     |
+| Wounds (W)          | Number of Wounds taken before incapacitation or death (See [Campaign][campaign])                                                                         | Equipment     |
 | Movement (M)        | Number of hexes that can be traversed during a Movement Action (See [Rule 5 - Ruler](#rule5.ruler) for Measurement Conversion) | Equipment     |
 |                     |                                                                                                                                |               |
 
-*[streamline] All Units only have 1 Wound. This makes the game more lethal, and it means that you no longer need to track Wounds on your [Platoon Card][platoon].*
+*[streamline] All Units only have 1 Wound, regardless of [Equipment][equipment]. This makes the game more lethal, and it means that you no longer need to track Wounds on your [Platoon Card][platoon].*
 
 [equipment]: /equipment/main.md
+[campaign]: /game_modes/campaign.md
 
 ## <a name="rule7"></a> **Rule 7 - Checks and Saves**
 Success and Failure in disrupter are determined entirely by d100 dice rolls (See [Rule 3](#rule3)). Rolling under a Stat leads to Success, rolling at or over a Stat leads to Failure.
 
-You make an Instinct Check to attempt risky Battlefield Actions (See Rule #).
-You make an Armor Save to attempt to avoid being Wounded (See Rule #).
+You make an Instinct Check to attempt risky Battlefield Actions (See [Rule 16](#rule16)).
+You make an Armor Save to attempt to avoid being Wounded (See [Rule 16 - Firing](#rule16.firing)).
 
 A Critical Success or Critical Failure is rolled when the dice are doubles (11, 22, etc.).
 
@@ -90,16 +91,16 @@ Disadvantage [-] means to roll twice and take the least favorable result.
 
 Critical Successes and Critical Failures are always used even with [+] or [-].
 
-## <a name="rule7"></a> **Rule 8 - Stress and Panic**
+## <a name="rule8"></a> **Rule 8 - Stress and Panic**
 Stress is a counter with a maximum of 20 representing the stress levels for each Platoon as a whole.
 
-A Panic Check requires rolling over current Stress with a d20 (See [Rule 3](#rule3)) or the rolled effect occurs from the appropriate [Panic Table][panic] (Team or Platoon See [Rule 9](#rule9)).
+A Panic Check requires rolling over current Stress with a d20 (See [Rule 3](#rule3)) or the rolled effect occurs from the appropriate [Panic Table][panic] (See [Rule 9](#rule9)).
 
-- Gain 1 Stress during the Initiative Phase of each Game Turn (See Rule #)
-- Gain 1 Stress for every Critical Failure
-- Lose 1 Stress for every Critical Success
-- Gain 1 Stress and make a Platoon Panic Check for every friendly human death
-- Make a Team Panic Check for each Stand within Close Range of a human death, including the stand with the dead soldier
+- Gain 1 Stress during the Initiative Phase of each Game Turn (See [Rule 11](#rule11))
+- Gain 1 Stress for every Critical Failure (See [Rule 7](#rule7))
+- Lose 1 Stress for every Critical Success (See [Rule 7](#rule7))
+- Gain 1 Stress and make a Platoon [Panic Check][panic] for every friendly human death
+- Make a Team [Panic Check][panic] for each Team within Close Range of a human taken off the board, including the Team with the Wounded soldier
 - Bots do not Panic (See [Rule 9 - Classes](rule9.classes))
 
 *[streamline] Do not track Stress and conduct Panic Checks.*
@@ -122,7 +123,7 @@ At its heart, Disrupter is a game about managing a chain of Command.
 [platoon]: /platoons/platoon_card.md
 
 ### <a name="rule9.classes"></a>**Classes**
-There are three Classes of Units that enable the Chain of Command. All Units are equipped with [Weapons][weapons] chosen by each CO during the Intelligence Briefing (See Rule #). Instinct is determined by class Wounds (W) and Movement (M) are determined by equipped [Armor][armor] in for humans and model specifications for [Bots][bots] (See [Rule 6](#rule6)).
+There are three Classes of Units that enable the Chain of Command. All Units are equipped with [Weapons][weapons] chosen by each CO during the Intelligence Briefing (See [Rule 10](#rule10)). Instinct is determined by class and Wounds (W) and Movement (M) are determined by equipped [Armor][armor] for humans and model specifications for [Bots][bots] (See [Rule 6](#rule6)).
 
 [bots]: /equipment/bots.md
 [weapons]: /equipment/weapons.md
@@ -135,7 +136,7 @@ There are three Classes of Units that enable the Chain of Command. All Units are
 - Bot, I:40
 
 ### <a name="rule9.orders"></a>**Giving Orders**
-Officers are able to give Orders to lower ranking Officers (CO to NCO) and Aoldiers. Orders may be given over the radio. There is no range to radio, and you may assume that every Unit has access to a helmet radio. Orders are short written statements recorded on a [Platoon Card][platoon]. They take the form of a single, direct sentence. Units follow their Orders without deviation with small exceptions for Taking Cover (See [Rule 13](#rule13)), avoiding Fire (See [Rule 16 - Firing](#rule16.firing)), and returning with Reaction Fire (See [Rule 15](#rule15)) for self-defense.
+Officers are able to give Orders to lower ranking Officers (CO to NCO) and Soldiers. Orders may be given over the radio. There is no range to radio, and you may assume that every Unit has access to a helmet radio. Orders are short written statements recorded on a [Platoon Card][platoon]. They take the form of a single, direct sentence. Units follow their Orders without deviation with small exceptions for Taking Cover (See [Rule 13](#rule13)), avoiding Fire (See [Rule 16 - Firing](#rule16.firing)), and returning with Reaction Fire (See [Rule 15](#rule15)) for self-defense.
 
 Orders for NCOs should be broad enough to give them the autonomy to complete their outcomes. You are not giving turn-by-turn instructions. Orders for Soldiers should be more specific.
 
@@ -152,7 +153,7 @@ The Intelligence Briefing functions much like a session zero in a ttrpg. The Int
 The following decisions are first made during the Intelligence Briefing:
 - The number of players (see [Rule 1](#rule1))
 - The specific rules being used for the game including the [Game Mode][mode]
-- The size and composition of forces, documented on [Platoon Cards][platoon card]
+- The size and composition of forces, documented on [Platoon Cards][platoon]
 - The Board (see [Rule 2](#rule2))
 
 Once the structure of the game has been decided, COs (See [Rule 9](#rule9)) are able to:
@@ -163,24 +164,24 @@ Once the structure of the game has been decided, COs (See [Rule 9](#rule9)) are 
 - Give initial Orders to NCOs and Squads (See [Rule 9 - Orders](#rule9.orders))
 
 ### <a name="rule11"></a>**Rule 11 - Turn Structure**
-Every turn of the game consists of an Initiative Phase, and an Action Phase. During the Initiative Phase Turn order is decided. During the Action Phase Teams may choose to take a Movement Action followed by a Battlefield Action. Actions must be performed in that order during a Turn.
+Every turn of the game consists of an Initiative Phase and an Action Phase. During the Initiative Phase Turn order is decided. During the Action Phase Teams may choose to take a Movement Action followed by a Battlefield Action. Actions must be performed in that order during a Turn.
 
 #### <a name="rule11.init"></a>**Intiative Phase**
-1. Each Platoon gains 1 Stress
-2. Both COs make an Instinct Check
+1. Each Platoon gains 1 Stress (See [Rule 8](#rule8))
+2. Both COs make an Instinct Check (See [Rule 7](#rule7))
     - Successful NCO goes first
     - If both are Successful the highest roll goes wins Initiative and goes first
     - A Critical Success always gives first turn, if both COs roll a Critical Success, the higher roll wins Initiative
     - If both COs Fail, roll again until someone wins Initiative
     - *[streamline] Conduct this Initiative Check only during the first turn and then use a set turn order*
-    - [optional] Resolve: once per game gain [+] on this Instinct Check
+    - *[optional] Resolve: once per game gain [+] on this Instinct Check*
 3. All NCOs make an Instinct Check
     - Successful NCOs are part of Group 1
     - Failed NCOs are part of Group 2
     - *[streamline] Eliminate this check, all Squads become members of Group 1, simplifying the Turn Structure*
 
 #### <a name="rule11.action"></a>**Action Phase**
-Actions take place in the order determined during the Initiative Phase (see [Rule 11](#rule11)). Each CO and the Squad they Command (See [Rule 9](#rule9)) must take their actions at the same time during each portion of the Action Phase.
+Actions take place in the order determined during the Initiative Phase (see [Rule 11](#rule11)). Each NCO and the Squad they Command (See [Rule 9](#rule9)) must take their actions at the same time during each portion of the Action Phase.
 
 #### ***COs***
 
@@ -191,6 +192,7 @@ COs take their Actions first.
 4. CO 2 - Battlefield Actions
 
 COs can instead choose to relieve 1 Stress, replacing both their Movement and Battlefield Actions for the turn.
+
 *[streamline] COs operate as part of Group 1*
 
 #### ***Group 1***
@@ -206,13 +208,15 @@ COs can instead choose to relieve 1 Stress, replacing both their Movement and Ba
 4. CO 2 - Group 1 - Battlefield Actions
 
 ### <a name="rule12"></a>**Rule 12 - Line of Sight**
-Line of Sight (LOS) is determined by Stand bases or Vehicles (see [Rule 4 - Basing](#rule4.basing)).
+Infantry Line of Sight (LOS) is determined by Stand bases (see [Rule 4 - Basing](#rule4.basing)).
 
-If you can draw a straight line between any portion of two Stands or Vehicles without any Obstructions, there is LOS.
+If you can draw a straight line between any portion of two Stands, there is LOS.
 
 Friendly Stands and Vehicles are ignored as Obstructions.
 
 Facing does not matter for Infantry and the one Vehicle currently in the game (See [Vehicles][vehicles]).
+
+Vehicles have different LOS rules than Infantry (See [Vehicles][vehicles])
 
 [vehicles]: /equipment/vehicles.md
 
@@ -224,29 +228,35 @@ Stands that fire while Under Cover lose Cover.
 A stand can Take or Leave cover as a Movement Action (See [Rule 14](#rule14)) or as a Battlefield Action (See [Rule 16](#rule16)).
 
 ### <a name="rule14"></a>**Rule 14 - Movement**
-Movement is conducted by Stands. Not all Stands are required to move.
+Movement is conducted by Teams or Vehicles. Not all Teams or Vehicles are required to move (See [Rule 9](#rule9)).
 
-A Stand’s Movement is determined by the Unit with the lowest Movement Stat in the Stand.
+A Stand’s Movement is determined by the Unit with the lowest Movement Stat in the Stand (See [Rule 6](#rule6)).
 
-Only 1 Stand may inhabit a hex.
+Only 1 Team or Vehicle may inhabit a hex.
 
-Stands are able to move through friendly Stands.
+Teams and Vehicles are able to move through friendly Teams and Vehicles..
+
+All Units have Movement 1 when fording streams or rivers. Units may not otherwise move over water unless otherwise noted by Equipment (See [Armor][armor] and [Bots][bots]) or [Vehicle specifications][vehicles].
+
+Vehicles use different Movement rules (See [Vehicle Rules][vehicle_rules])
+
+[vehicle_rules]: /rules/core/vehicles.md
 
 ### <a name="rule15"></a>**Rule 15 - Reaction Fire**
-After each hex of movement, check if any enemy stands have LOS on the moving Stand.
+After each hex or Vehicle Template for Movement (See [Vehicle Rules][vehicle_rules]), check if any enemy Teams or Vehicles have LOS on the moving Team or Vehicle.
 
-If an enemy stand with LOS has orders that indicate they should Fire in that situation, they have not yet Fired during the current Movement Phase, and any of their weapons have range on the moving Stand, the enemy Stand must fire on the moving Stand. Enemy Stands may use their discretion to Spot Units or to Fire if they are attempting to stay Under Cover.
+If an enemy with LOS has orders that indicate they should Fire in that situation, they have not yet Fired during the current Movement Phase, and any of their weapons have range on the moving Team or Vehicle, the enemy must fire on the moving Team or Vehicle. Enemies may use their discretion to Spot Teams or Vehicles or to Fire if they are attempting to stay Under Cover.
 
 ### <a name="rule16"></a>**Rule 16 - Battlefield Actions**
-Resolve actions one stand at a time, one Unit at a time. Units must declare targets and the action they will take before resolving actions for the entire Stand.
+Resolve actions one Team or Vehicle at a time, one Unit at a time. Units must declare targets and the action they will take before resolving actions for the entire Team or Vehicle.
 
 #### <a name="rule16.spot"></a>***Spotting***
-You can attempt to Spot an enemy Stand within LOS by making an Instinct Check in order to draw a target out of Cover, paint a target for a missile, or identify a target for a sniper. You can track spotting on the [Platoon Card][platoon] or using markers on the board.
+You can attempt to Spot an enemy within LOS by making an Instinct Check in order to draw a target out of Cover, paint a target for a missile, or identify a target for a sniper. You can track spotting on the [Platoon Card][platoon] or using markers on the board.
 
 *[streamline] All Spotting Checks are automatically Successful.*
 
 #### <a name="rule16.firing"></a>***Firing***
-Units may choose to Fire on individual Units or a whole stand. Units with multiple Weapons may only use one Weapon per activation.
+Units may choose to Fire on individual Units or a whole Team or Vehicle. Units with multiple Weapons may only use one Weapon per activation.
 
 The attacker must have LOS on the target. The attacker makes an Instinct Check and the target makes an Armor Save (See [Rule 7](#rule7)). Use the following table to resolve Fire.
 
@@ -264,11 +274,11 @@ The attacker must have LOS on the target. The attacker makes an Instinct Check a
 
 *[streamline] Only the currently active Platoon makes Checks and Saves (See [Rule 7](#rule7)). They make Armor Saves during Reaction Fire, and they make Instinct Saves when necessary for Combat Actions.*
 
-*[streamline] [variant] Player Facing Rolls are used. All weapons automatically hit unless the target Successfully makes an Armor Check (See [Rule 7](#rule7)). If you combine this with the [streamline] rules to make Spot and Rally Checks automatically Successful (See [Rule 16 - Spotting](#rule16.spot) and [Rule 16 - Commanding](#rule16.command)), you can completely eliminate the use of the Instinct Stat (See [Rule 6](#rule6)).*
+*[streamline] [variant] Player Facing Rolls are used. All weapons automatically hit unless the target Successfully makes an Armor Check (See [Rule 7](#rule7)). If you combine this with the [streamline] rules to make Spot and Rally Checks automatically Successful (See [Rule 16 - Spotting](#rule16.spot) and [Rule 16 - Commanding](#rule16.command)) and eliminate the use of the Slide Movement Template (See [Vehicles][vehicle_rules]), you can completely eliminate the use of the Instinct Stat (See [Rule 6](#rule6)).*
 
 If a whole Team is fired on, only one Armor Save (See [Rule 7](#rule7)) is made for all of the Units with the same Armor Stat (See [Rule 6](#rule6)).
 
-If multiple Units with the same Instinct Stat (See [Rule 6](#rule6)) are firing at the same Team or Vehicle only one Instinct Check (See [Rule 7](#rule7)) is made.
+If multiple Units with the same Instinct Stat (See [Rule 6](#rule6)) are firing at the same target only one Instinct Check (See [Rule 7](#rule7)) is made.
 
 The number of Wounds inflicted with a Successful attack is listed for each range for each [Weapon][weapons].
 
@@ -285,10 +295,10 @@ With one Battlefield Action an Officer can give one set of Orders to a single NC
 
 Giving Orders is automatically Successful.
 
-CO orders to NCOs with Code Words are executed immediately (See [Rule 10](#rule10)). New CO to NCO orders are executed starting the next turn. All NCO orders to squads occur immediately.
+CO orders to NCOs with Code Words are executed immediately (See [Rule 10](#rule10)). New CO to NCO orders are executed starting the next turn. All NCO orders to Squads occur immediately.
 
 Officers can attempt to Rally Teams within Close Range (See [Rule5](#rule5)) with a Successful Instinct Check (See [Rule 6](#rule6) and [Rule 7](#rule7)). Rallying troops brings Routed Teams (See [Rule 8](#rule8) and [Panic][panic]) under the Command of the Rallying Officer.
 
-*[streamline] Rally Checks are automatically Successful. If you aren't tracking Stress and making Panic Checks, you will never need to Rally Teams.*
+*[streamline] Rally Checks are automatically Successful. And, ff you aren't tracking Stress and making Panic Checks, you will never even need to Rally Teams.*
 
 [mode]: /game_modes/main.md

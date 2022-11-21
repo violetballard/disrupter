@@ -131,7 +131,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Requires Battle Dress (See [Armor][armor])<br/> - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br> - >Penetrates through targets<br> - Takes 3 Turns to recharge |
+>| - Requires Battle Dress (See [Armor][armor])<br/> - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br> - Does not require an Instinct Check<br> - Penetrates through targets, all obstacles ignored, every Unit in its path must make an Armor Save<br> - Takes 3 Turns to recharge |
 <br>
 
 >## **Rocket Launcher**

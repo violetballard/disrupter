@@ -1,6 +1,5 @@
 # **To Do**
 ## **Major**
-    - Vehicle Rules
     - Game Modes
         - Campaign - Paying off Debt
             - Custom Platoons Using Budget (in Debt Units)
@@ -14,22 +13,15 @@
         - Destruction - Destroy 3 Buildings to Win, Give NCOs plastic explosives
         - Radio Tower - A Radio Tower in the center of the map is blocking all radio communication until it is destroyed, otherwise a skirmish
     - Platoon Card
-        - Blank
-        - Sample Platoons
     - Indirect Fire Rules
-    - Design Sequences
-        - Vehicles
-        - Weapons
-        - Armor
-        - Bots
     
 ## **Minor**
     - *Weapons*
         - Plastic Explosives
         - Energy Weapons
-            - Laser
-            - Plasma
-            - Fusion
+            - Laser (Pistol and Rifle)
+            - Plasma (Pistol, Rifle, Carbine)
+            - Fusion (Pistol, Rifle, Carbine)
         - Grenade Types
             - Plasma
             - Fusion
@@ -48,3 +40,5 @@
         - More fully featured bots suitable for higher damage level weapons
         - Robots who can give orders to other robots
             - Robots are programmed to always be subservient to humans, cannot give orders to them
+    - *Platoons*
+        - Platoon(s) using the higher powered equipment
