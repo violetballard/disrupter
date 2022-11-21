@@ -2,7 +2,7 @@
 Disrupter is designed for Platoon scale encounters. However, nothing is stopping you from scaling up or down your Size of Force.
 
 ## **Squad**
-You can scale down the Size of Force to a single Squad. For this, you would want to limit each person to five Teams or Vehicles. You would also want to require there to be an Officer in every Team or Vehicle except for Bot only Teams and Vehicle crews. At the squad level, Command is not nearly as important, each Team has a lot more autonomy.
+You can scale down the Size of Force to a single Squad. For this, you would want to limit each person to five Teams or Vehicles. You would also want to require there to be an Officer in every Team or Vehicle except for Bot only Teams and Vehicle crews. At the Squad level, Command is not nearly as important, each Team has a lot more autonomy.
 
 This is best suited for a 12"x12", 18"x18", or 24"x24" Board.
 
@@ -20,6 +20,6 @@ This is best suited for a 36"x36" or 48"x48" Board.
 ## **Company**
 A Company consists of 2-3 Platoons. Each Platoon has its own NCO, fulfilling the same role as a CO in a Platoon Scale game. The CO is now the Platoon Commander. The orders they give are even broader than those of a Platoon CO. This can be a great way to play co-operatively if everyone is experienced running a full platoon themselves.
 
-This is best suited for a 48"x48" Board or a 48"x60" Board.
+This is best suited for a 48"x48" or larger Board.
 
 *[streamline] If you like the idea of larger scale play, the [streamline] rules are a great way to do so without getting bogged down in minutiae.* 

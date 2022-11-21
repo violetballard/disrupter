@@ -19,5 +19,5 @@ Please pay attention to the formatting of these tables if you are submitting a n
 >
 >| Description                                                                           |
 >| ------------------------------------------------------------------------------------- |
->| - Entry level Bot<br> - Considered to be wearing Battle Dress for Weapon requirements |
+>| - Entry level Bot<br> - Considered to be wearing Battle Dress for Weapon requirements (See [Armor][armor]) |
 <br>

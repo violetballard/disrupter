@@ -25,7 +25,7 @@ Use the following links to look up Stats in order to complete your Platoon Card:
 >## **Squad 0 - Command**
 >### **Team A**
 >1 CO - Power Armor, Shotgun, Revolver<br>
->2 Soldiers - Power Armor, Pulse Rifles<br>
+>2 Soldiers - Power Armor, Pulse Rifle w/ GL<br>
 >1 Bot - Basic Battlefield Robot, Laser Carbine
 
 <br>
@@ -36,27 +36,31 @@ Use the following links to look up Stats in order to complete your Platoon Card:
 >3 Soldiers - Combat Armor, Pulse Rifle
 >
 >### **Team B**
->1 Soldier - Power Armor, Pulse Rifle<br>
->3 Bots - Basic Battlefield Robot, Laser Carbine
+>1 Soldier - Combat Armor, Flamethrower<br>
+>2 Bots - Basic Battlefield Robot, Laser Carbine<br>
+>1 Bot - Basical Battlefield Robot, Laser Cutter
 >
 >### **Team C**
 >1 Soldier - Power Armor, Heavy Machine Gun<br>
->3 Bots - Basic Battlefield Robot, Laser Carbine
+>2 Bots - Basic Battlefield Robot, Laser Carbine<br>
+>1 Bot - Basic Battllefield Robot, Laser Cutter
 
 <br>
 
 >## **Squad 2 - Infantry**
 >### **Team A**
->1 NCO - Power Armor, Pulse Rifle, Revolver<br>
->3 Soldiers - Combat Armor, Pulse Rifle
+>1 NCO - Power Armor, Pulse Rifle w/GL, Revolver<br>
+>3 Soldiers - Combat Armor, Pulse Rifle w/ GL
 >
 >### **Team B**
->1 Soldier - Power Armor, Rocket Launcher<br>
->3 Bots - Basic Battlefield Robot, Laser Carbine
+>1 Soldier - Combat Armor, Pulse Rifle w/ GL<br>
+>2 Bots - Basic Battlefield Robot, Laser Carbine<br>
+>1 Bot - Basic Battlefiled Robot, Laser Cutter
 >
 >### **Team C**
->1 Soldier - Power Armor, Pulse Rifle<br>
->3 Bots - Basic Battlefield Robot, Laser Cutter
+>1 Soldier - Combat Armor, Shotgun<br>
+>2 Bots - Basic Battlefield Robot, Laser Carbine<br>
+>1 Bot - Basic Battlefield Robot, Laser Cutter
 
 <br>
 
@@ -66,5 +70,5 @@ Use the following links to look up Stats in order to complete your Platoon Card:
 >3 Bots - Basic Battle Field Robot, Laser Carbine
 >
 >### **Boat B**
->1 NCO - Power Armor, Pulse Rifle, Rocket Launcher, Revolver<br>
+>1 Soldier - Combat Armor, Pulse Rifle, Rocket Launcher<br>
 >3 Bots - Basic Battle Field Robot, Laser Carbine

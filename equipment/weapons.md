@@ -16,8 +16,10 @@ Individual Units are indinistinguishable; however, Weapons are what give your te
 Please pay attention to the formatting of these tables if you are submitting a new Weapon. We suggest writing them without the block quotes and then adding them when you are complete. At least for our preferred VS Code Markdown Table plugin, our table tab-completion does not like the blockquotes. However, the blockquotes make these tables legible.
 
 ## **Infantry Weapons**
-Many Infantry Weapons can be attached to Vehicles as well.
+Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 <br>
+
+[vehicles]: /equipment/vehicles.md
 
 >## **Revolver**
 >
@@ -28,8 +30,10 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Officer's side arm |
+>| - Officer's (See [Rule 9][rule9]) side arm |
 <br>
+
+[rule9]: /rules/core/main.md#rule9
 
 >## **Combat Shotgun**
 >
@@ -52,7 +56,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description                                                                                                                         |
 >| ----------------------------------------------------------------------------------------------------------------------------------- |
->| - Medium Range throw, Automatically hits target<br> - Instinct Check (See [Rule 7][rule7]) for Successful throw, Failed throw targets attacker's own Team<br> - 1 Wound Splash damage within Close Range |
+>| - Medium Range (See [Rule 5][rule5]) throw, automatically hits target<br> - Instinct Check (See [Rule 7][rule7]) for Successful throw, Failed throw targets attacker's own Team<br> - 1 Wound Splash damage within Close Range |
 <br>
 
 [rule7]: /rules/core/main.md#rule7
@@ -66,7 +70,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Standard issue Weapon for Infantry<br> - Can have mounted Frag Grenade launcher with Long Range |
+>| - Standard issue Weapon for Infantry<br> - Can have mounted Frag Grenade launcher with Long Range (See [Rule 5][rule5]) |
 <br>
 
 >## **Laser Carbine**
@@ -78,8 +82,10 @@ Many Infantry Weapons can be attached to Vehicles as well.
 
 >| Description                      |
 >| -------------------------------- |
->| - Standard issue Weapon for Bots |
+>| - Standard issue Weapon for [Bots][bots] |
 <br>
+
+[bots]: /equipment/bots.md
 
 >## **Sniper Rifle**
 >
@@ -105,7 +111,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Requires Battle Dress (See [Armor][armor])<br/> - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br> - 1 Wound to all units adjacent to target |
+>| - Requires Battle Dress (See [Armor][armor])<br/> - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br> - 1 Wound to all units within Close Range (See [Rule 5][rule5]) of the target |
 <br>
 
 [armor]: ./armor.md
@@ -119,7 +125,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Burning: 1 Wound to all Units within Close Range of the target, excluding the attacker|
+>| - Burning: 1 Wound to all Units within Close Range of the target (See [Rule 5][rule5]), excluding the attacker|
 <br>
 
 >## **Laser Cutter**
@@ -143,7 +149,7 @@ Many Infantry Weapons can be attached to Vehicles as well.
 >
 >| Description          |
 >| -------------------- |
->| - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br><br> - Another unit can Spot the target if there is not LOS (See [Rule 16 - Spotting][spot])<br> --Can Spot a Target that is Under Cover<br> --Automatically hits if target is Spotted <br><br> -2 Wounds to all units in Close Range to target<br><br> - On Failed Instinct Check, still lands 2 Wounds on all target Units |
+>| - Cannot Move and Fire in the same turn See ([Rule 11][rule11])<br><br> - Another unit can Spot the target if there is not LOS (See [Rule 16 - Spotting][spot])<br> --Can Spot a Target that is Under Cover (See [Rule 13][rule13])<br> --Automatically hits if target is Spotted <br><br> -2 Wounds to all units in Close Range (See [Rule 5][rule5]) to target<br><br> - On Failed Instinct Check (See [Rule 7][rule7]), still lands 2 Wounds on all target Units |
 <br>
 
 [spot]: /rules/core/main.md#rule16.spot
