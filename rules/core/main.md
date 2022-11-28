@@ -30,18 +30,20 @@ Disrupter is a d100 roll under system (see [Rule 7](#rule7)), so it uses a subse
 - 1 red d20 per player
 
 ### <a name="rule4"></a> **Rule 4 - Miniatures**
-Disrupter is designed for use with 10mm miniatures. This is because of this scale's combination of affordability and model detail. They are really easy to paint, and we suggest spending as little time as possible painting your miniatures to get on the board. We suggest using white primer and solid color (red and blue) Speedpaint for human miniatures and black primer and metallic (gold and silver) applied via a dry brush (Slap Chop Method) for [Bots][bots].
+Disrupter is designed for use with 10mm miniatures that have been based individually (See [Starter Platoon][starter]). They are really easy to paint, and we suggest spending as little time as possible painting your miniatures to get on the board. We suggest using white primer and solid color (red and blue) Speedpaint for human miniatures and black primer and metallic (gold and silver) applied via a dry brush (Slap Chop Method) for [Bots][bots].
+
+[starter]: /platoons/starter.md
 
 However, we encourage you to re-use miniatures that you already have. It is easy to scale up and down the model size and measurements (see [Rule 5](#rule5)). You can use chits, coins, or even meeples. A standard meeple is at a 15mm scale. Get a Platoon on the board!
 
 #### <a name="rule4.basing"></a> ***Basing***
 We make some unorthodox suggestions about basing, but please use based models that you already have, use movement trays, or move individual Units. Our suggestions for basing seek to make bookkeeping and measurement as simple as possible while playing.
 
-Miniatures for Infantry should be based four to a Stand. You need some way to remove or mark (small rubber bands are recommended) Units when they need to be removed from the Board if you want to use traditional basing.
-
 We suggest sticking [50mm flexible steel bases][flexible] onto [6mm thick black plastic 50mm hex bases][plastic]. We suggest drilling small holes in the individual Unit bases and then gluing [small magnets (3mmx1mm)][magnets] into the hole. This way, you are able to remove Units from a stand, and they stay in place more solidly than if using a movement tray.
 
 These 50mm hex bases allow you to play on a hex grid, or you can use extra bases as rulers if you are playing using measurement instead of a grid (see [Rule 5 - Ruler Distance](#rule5.ruler)). The thick plastic base also allows you to label the bases with a code for their team and squad designation, making for easier tracking of Orders (See [Rule 9 - Giving Orders](#rule9.orders)) and Wounds (See [Rule 6](#rule6)) on your [Platoon Card][platoon]. A paint or white out marker or a label maker work best for this.
+
+For traditional basing, miniatures for Infantry should be based four to a Stand. You need some way to remove or mark (small rubber bands are recommended) Units when they need to be removed from the Board if you want to use traditional basing.
 
 [flexible]: https://litko.net/products/quote_1034434584
 [plastic]: https://litko.net/products/quote_1034434458
@@ -78,7 +80,7 @@ All statistics are provided as a percentage likelihood of completing a risky Act
 [campaign]: /game_modes/campaign.md
 
 ## <a name="rule7"></a> **Rule 7 - Checks and Saves**
-Success and Failure in disrupter are determined entirely by d100 dice rolls (See [Rule 3](#rule3)). Rolling under a Stat leads to Success, rolling at or over a Stat leads to Failure.
+Success and Failure in disrupter are determined entirely by d100 dice rolls (See [Rule 3](#rule3)). Rolling under a Stat leads to Success, rolling at or over a Stat leads to Failure. A roll of 00-0 is the number 0, not 100.
 
 You make an Instinct Check to attempt risky Battlefield Actions (See [Rule 16](#rule16)).
 You make an Armor Save to attempt to avoid being Wounded (See [Rule 16 - Firing](#rule16.firing)).

@@ -1,8 +1,7 @@
 # **Starter Platoon**
 This is a great Platoon for getting a Platoon on the Board and starting to play. If you are using a map with water, you can include Squad 3 if you would like.
 
-
-Use the following links to look up Stats in order to complete your Platoon Card:
+Use the following links to look up Stats in order to complete your [Platoon Card][platoon]:
 - [Armor][armor]
 - [Weapons][weapons]
 - [Bots][bots]
@@ -12,6 +11,7 @@ Use the following links to look up Stats in order to complete your Platoon Card:
 [weapons]: /equipment/weapons.md
 [bots]: /equipment/bots.md
 [vehicles]: /equipment/vehicles.md
+[platoon]: /platoons/platoon_card.md
 
 ## **Suggested Miniatures for 2 Players**
 [30 ESTO Marines][marines]
