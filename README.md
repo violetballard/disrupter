@@ -1,6 +1,3 @@
----
-title: " "
----
 # **Disrupter**
 ## *Version 0.1*
 
