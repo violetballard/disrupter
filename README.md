@@ -19,28 +19,4 @@ We welcome for people to make a Pull Request if they would like to work on items
 
 We give fair warning that the license does allow for commercial use, so like all open source projects, you will not receive any compensation from commercial derivatives of the work you contribute to the project. If you feel this is unfair, you can create a fork with a different license or sell your own derived product, those are your rights under this license as well.
 
-## **Table of Contents**
-1. [Core Rules][rules]
-    - [Panic Table][panic]
-    - [Vehicles][vehicle_rules]
-2. [Game Modes][modes]
-    - [Last Man Standing][lms]
-    - [Campaign][campaign]
-3. [Equipment][equipment]
-    - [Armor][armor]
-    - [Weapons][weapons]
-    - [Bots][bots]
-    - [Vehicles][vehicles]
-
-[rules]: /rules/core/main.md
-[panic]: /rules/core/panic.md
-[equipment]: /equipment/main.md
-[armor]: /equipment/armor.md
-[weapons]: /equipment/weapons.md
-[bots]: /equipment/bots.md
-[vehicles]: /vehicles/main.md
-[modes]: /game_modes/main.md
-[lms]: /game_modes/lms.md
-[campaign]: /game_modes/campaign.md
-[vehicle_rules]: /rules/core/vehicles.md
 [todo]: /TODO.md
