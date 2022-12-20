@@ -24,9 +24,9 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 
 >## **Squad 0 - Command**
 >### **Team A**
->1 CO - Power Armor, Shotgun, Revolver<br>
+>1 CO - Combat Armor, Revolver<br>
 >2 Soldiers - Power Armor, Pulse Rifle w/ GL<br>
->1 Bot - Basic Battlefield Robot, Laser Carbine
+>1 Bot - Basic Battlefield Robot, Laser Cutter
 
 <br>
 
@@ -38,7 +38,7 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 >### **Team B**
 >1 Soldier - Combat Armor, Flamethrower<br>
 >2 Bots - Basic Battlefield Robot, Laser Carbine<br>
->1 Bot - Basical Battlefield Robot, Laser Cutter
+>1 Bot - Basical Battlefield Robot, Rocket Launcher
 >
 >### **Team C**
 >1 Soldier - Power Armor, Heavy Machine Gun<br>
@@ -55,7 +55,7 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 >### **Team B**
 >1 Soldier - Combat Armor, Pulse Rifle w/ GL<br>
 >2 Bots - Basic Battlefield Robot, Laser Carbine<br>
->1 Bot - Basic Battlefiled Robot, Laser Cutter
+>1 Bot - Basic Battlefiled Robot, Rocket Launcher
 >
 >### **Team C**
 >1 Soldier - Combat Armor, Shotgun<br>
