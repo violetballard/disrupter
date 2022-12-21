@@ -10,6 +10,7 @@ header_pages:
    - rules/core/panic.md
    - rules/core/vehicles.md
    - rules/core/indirect_fire.md
+   - game_modes/main.md
    - platoons/main.md
    - platoons/starter.md
    - rules/optional/size_of_force.md
@@ -19,7 +20,6 @@ header_pages:
    - equipment/bots.md
    - equipment/weapons.md
    - equipment/vehicles.md
-   - game_modes/main.md
    - LICENSE.md
    - TODO.md
 
