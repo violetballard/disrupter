@@ -1,4 +1,4 @@
-# **Size of Force**
+# **Size_of_Force**
 Disrupter is designed for Platoon scale encounters. However, nothing is stopping you from scaling up or down your Size of Force.
 
 ## **Enlarging Teams**
