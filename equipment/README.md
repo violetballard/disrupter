@@ -1,2 +1,3 @@
 # Equipment
 
+Equipment in Disrupter is designed to be very simple as far as Stats are concerned (See [Rule 6](broken-reference)). Designing Equipment is actually about writing the item description you define the battlefield behaviors that make a certain piece of equipment unique. You can choose from our sample Equipment or develop your own. We hope that people will contribute to this core collection of Equipment. Even though Disrupter is developed for a futuristic setting, it is entirely possible to develop Equipment to have your battles take place during any historical period. If you are playing in an earlier time period, you can turn Bots into Recruits.

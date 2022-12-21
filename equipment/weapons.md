@@ -1,8 +1,8 @@
 # Weapons
 
-Weapon Stats are really easy to create as well. There are 5 stats for each Weapon representing the damage they do at each Range band (See [Rule 5](../rules/core/main.md#rule5))
+Weapon Stats are really easy to create as well. There are 5 stats for each Weapon representing the damage they do at each Range band (See [Rule 5](broken-reference))
 
-* Target (T, #) - Damage done to target by [Indirect Firing](../rules/core/indirect\_fire.md) Weapons
+* Target (T, #) - Damage done to target by [Indirect Firing](../rules/indirect\_fire.md) Weapons
 * Close (C, #)
 * Medium (M, #)
 * Long (L, #)
@@ -26,9 +26,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  1  |  1  |  1  |  3  |
 |   |     |     |     |     |
 
-| Description                                                      |
-| ---------------------------------------------------------------- |
-| - Officer's (See [Rule 9](../rules/core/main.md#rule9)) side arm |
+| Description                                           |
+| ----------------------------------------------------- |
+| - Officer's (See [Rule 9](broken-reference)) side arm |
 
 \
 
@@ -54,9 +54,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 |  2  |  1  |  0  |  0  | 2 (Throw) |
 |     |     |     |     |           |
 
-| Description                                                                                                                                                                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>- Medium Range (See <a href="../rules/core/main.md#rule5">Rule 5</a>) throw, automatically hits target<br>- Instinct Check (See <a href="../rules/core/main.md#rule7">Rule 7</a>) for Successful throw, Failed throw targets attacker's own Team<br>- 1 Wound Splash damage within Close Range</p> |
+| Description                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Medium Range (See <a href="broken-reference">Rule 5</a>) throw, automatically hits target<br>- Instinct Check (See <a href="broken-reference">Rule 7</a>) for Successful throw, Failed throw targets attacker's own Team<br>- 1 Wound Splash damage within Close Range</p> |
 
 \
 
@@ -68,9 +68,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  2  |  2  |  1  |  4  |
 |   |     |     |     |     |
 
-| Description                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>- Standard issue Weapon for Infantry<br>- Can have mounted Frag Grenade launcher with Long Range (See <a href="../rules/core/main.md#rule5">Rule 5</a>)</p> |
+| Description                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Standard issue Weapon for Infantry<br>- Can have mounted Frag Grenade launcher with Long Range (See <a href="broken-reference">Rule 5</a>)</p> |
 
 \
 
@@ -96,9 +96,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  1  |  3  |  3  |  5  |
 |   |     |     |     |     |
 
-| Description                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>- Cannot Move and Fire in the same turn See (<a href="../rules/core/main.md#rule11">Rule 11</a>)<br>- Can Fire from cover without I [-] (See <a href="../rules/core/main.md#rule13">Rule 13</a>)<br>- Someone else can Spot an enemy to give I [+] (See <a href="../rules/core/main.md#rule16.spot">Rule 16 - Spotting</a>)</p> |
+| Description                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Cannot Move and Fire in the same turn See (<a href="broken-reference">Rule 11</a>)<br>- Can Fire from cover without I [-] (See <a href="broken-reference">Rule 13</a>)<br>- Someone else can Spot an enemy to give I [+] (See <a href="broken-reference">Rule 16 - Spotting</a>)</p> |
 
 \
 
@@ -110,9 +110,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  3  |  3  |  1  |  3  |
 |   |     |     |     |     |
 
-| Description                                                                                                                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>- Requires Battle Dress (See <a href="armor.md">Armor</a>)<br>- Cannot Move and Fire in the same turn See (<a href="../rules/core/main.md#rule11">Rule 11</a>)<br>- 1 Wound to all units within Close Range (See <a href="../rules/core/main.md#rule5">Rule 5</a>) of the target</p> |
+| Description                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Requires Battle Dress (See <a href="armor.md">Armor</a>)<br>- Cannot Move and Fire in the same turn See (<a href="broken-reference">Rule 11</a>)<br>- 1 Wound to all units within Close Range (See <a href="broken-reference">Rule 5</a>) of the target</p> |
 
 \
 
@@ -124,9 +124,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  3  |  0  |  0  |  1  |
 |   |     |     |     |     |
 
-| Description                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| - Burning: 1 Wound to all Units within Close Range of the target (See [Rule 5](../rules/core/main.md#rule5)), excluding the attacker |
+| Description                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| - Burning: 1 Wound to all Units within Close Range of the target (See [Rule 5](broken-reference)), excluding the attacker |
 
 \
 
@@ -138,9 +138,9 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 0 |  10 |  10 |  10 | Infinite |
 |   |     |     |     |          |
 
-| Description                                                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>- Requires Battle Dress (See <a href="armor.md">Armor</a>)<br>- Cannot Move and Fire in the same turn See (<a href="../rules/core/main.md#rule11">Rule 11</a>)<br>- Does not require an Instinct Check<br>- Penetrates through targets, all obstacles ignored, every Unit in its path must make an Armor Save<br>- Takes 3 Turns to recharge</p> |
+| Description                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Requires Battle Dress (See <a href="armor.md">Armor</a>)<br>- Cannot Move and Fire in the same turn See (<a href="broken-reference">Rule 11</a>)<br>- Does not require an Instinct Check<br>- Penetrates through targets, all obstacles ignored, every Unit in its path must make an Armor Save<br>- Takes 3 Turns to recharge</p> |
 
 \
 
@@ -152,8 +152,8 @@ Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
 | 10 |  2  |  10 |  10 | Infinite |
 |    |     |     |     |          |
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p>- Cannot Move and Fire in the same turn See (<a href="../rules/core/main.md#rule11">Rule 11</a>)<br><br>- Another unit can Spot the target if there is not LOS (See <a href="../rules/core/main.md#rule16.spot">Rule 16 - Spotting</a>)<br>--Can Spot a Target that is Under Cover (See <a href="../rules/core/main.md#rule13">Rule 13</a>)<br>--Automatically hits if target is Spotted<br><br>-2 Wounds to all units in Close Range (See <a href="../rules/core/main.md#rule5">Rule 5</a>) to target<br><br>- On Failed Instinct Check (See <a href="../rules/core/main.md#rule7">Rule 7</a>), still lands 2 Wounds on all target Units</p> |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>- Cannot Move and Fire in the same turn See (<a href="broken-reference">Rule 11</a>)<br><br>- Another unit can Spot the target if there is not LOS (See <a href="broken-reference">Rule 16 - Spotting</a>)<br>--Can Spot a Target that is Under Cover (See <a href="broken-reference">Rule 13</a>)<br>--Automatically hits if target is Spotted<br><br>-2 Wounds to all units in Close Range (See <a href="broken-reference">Rule 5</a>) to target<br><br>- On Failed Instinct Check (See <a href="broken-reference">Rule 7</a>), still lands 2 Wounds on all target Units</p> |
 
 \
