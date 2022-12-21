@@ -1,6 +1,9 @@
 # **Size of Force**
 Disrupter is designed for Platoon scale encounters. However, nothing is stopping you from scaling up or down your Size of Force.
 
+## **Enlarging Teams**
+You can enlarge the team size to five soldiers instead of four to increase the number of troops without increasing the number of teams that you need to track.
+
 ## **Squad**
 You can scale down the Size of Force to a single Squad. For this, you would want to limit each person to five Teams or Vehicles. You would also want to require there to be an Officer in every Team or Vehicle except for Bot only Teams and Vehicle crews. At the Squad level, Command is not nearly as important, each Team has a lot more autonomy.
 
