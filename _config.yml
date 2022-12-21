@@ -11,15 +11,15 @@ header_pages:
    - rules/core/vehicles.md
    - rules/core/indirect_fire.md
    - platoons/main.md
-   - platoons/platoon_card.md
    - platoons/starter.md
+   - rules/optional/size_of_force.md
+   - platoons/platoon_card.md
    - equipment/main.md
    - equipment/armor.md
    - equipment/bots.md
    - equipment/weapons.md
    - equipment/vehicles.md
    - game_modes/main.md
-   - rules/optional/size_of_force.md
    - LICENSE.md
    - TODO.md
 
