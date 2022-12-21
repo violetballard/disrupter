@@ -1,10 +1,10 @@
 remote_theme: jekyll/minima
 
-minima:
-  author:
+author:
     name: Violet Ballard
     email: "violet@rvgames.company"
 
+minima:
   skin: dark
 
   social_links: 
