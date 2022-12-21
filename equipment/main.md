@@ -4,8 +4,8 @@ Equipment in Disrupter is designed to be very simple as far as Stats are concern
 [rule6]: /rules/core/main.md#rule6
 
 1. [Armor][armor]
-2. [Weapons][weapons]
-3. [Bots][bots]
+2. [Bots][bots]
+3. [Weapons][weapons]
 4. [Vehicles][vehicles]
 
 [armor]: ./armor.md

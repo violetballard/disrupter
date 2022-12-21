@@ -5,7 +5,26 @@ author:
     email: "violet@rvgames.company"
 
 header_pages:
-   - readme.md
+   - README.md
+   - rules/core/main.md
+   - rules/core/panic.md
+   - rules/core/vehicles.md
+   - rules/core/indirect_fire.md
+   - equipment/main.md
+   - equipment/armor.md
+   - equipment/bots.md
+   - equipment/weapons.md
+   - equipment/vehicles.md
+   - platoons/main.md
+   - platoons/platoon_card.md
+   - platoons/starter.md
+   - platoons/starter.md
+   - game_modes/main.md
+   - game_modes/lms.md
+   - game_modes/campaign.md
+   - rules/optional/size_of_force.md
+   - LICENSE.md
+   - TODO.md
 
 minima:
   skin: dark
