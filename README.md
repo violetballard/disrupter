@@ -12,7 +12,7 @@ Dropzone Commander is at the platoon level, but it has a larger focus on vehicle
 Eventually, we want the game to develop infantry scale vehicle rules (atvs, jeeps, apcs, trucks, small numbers of small tanks, etc.) influenced by Gaslands. The goal is to eventually create a tabletop game that resembles the early prototypes of Halo as a tactics game like the games in the Myth franchise. This includes a focus on a small number of weapons and vehicles that are super fun to manuever.
 
 ## **License**
-The Creative Commons Attribution 4.0 International license was chosen because we want people to be able to take these rules and run with them. However, we are not running a licensing department and provide no support. RV Games does want to make these rules into a published product at some point in time; however, we plan to keep the Disrupter rules free and open source on github in perpetuity.
+[The Creative Commons Attribution 4.0 International license][license] was chosen because we want people to be able to take these rules and run with them. However, we are not running a licensing department and provide no support. RV Games does want to make these rules into a published product at some point in time; however, we plan to keep the Disrupter rules free and open source on github in perpetuity.
 
 ## **Contributing**
 We welcome for people to make a Pull Request if they would like to work on items on the [TODO][todo] list, share optional rules, equipment, game modes, or platoons to become an official part of Disrupter. There are some rough guidelines for creating this content; however, there are not yet formalized design sequences for Disrupter. Contributions to the core rules, game modes, and equipment will only be integrated with great thought. The core rules are the kernel of an extensible system, this game is built with the Unix philosophy of small interrelated parts.
@@ -20,3 +20,4 @@ We welcome for people to make a Pull Request if they would like to work on items
 We give fair warning that the license does allow for commercial use, so like all open source projects, you will not receive any compensation from commercial derivatives of the work you contribute to the project. If you feel this is unfair, you can create a fork with a different license or sell your own derived product, those are your rights under this license as well.
 
 [todo]: /TODO.md
+[license]: /LICENSE.md
