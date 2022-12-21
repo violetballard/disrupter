@@ -1,4 +1,4 @@
-# **Vehicle_Rules**
+# **Vehicle Rules**
 Infantry are locked in hex based combat while Vehicles wrecklessly move around them using Gaslands Movement Templates. This gives the game a very Halo feel. Vehicles are not based unless they are flying Vehicles.
 
 The only Vehicle currently in the game is an Inflatable Boat, and it mostly operates like an Infantry Unit (See [Vehicle Specifications][vehicles]).

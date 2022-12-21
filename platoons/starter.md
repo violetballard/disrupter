@@ -1,4 +1,4 @@
-# **Starter_Platoon**
+# **Starter Platoon**
 This is a great Platoon for getting a Platoon on the Board and starting to play. If you are using a map with water, you can include Squad 3 if you would like.
 
 Use the following links to look up Stats in order to complete your [Platoon Card][platoon]:

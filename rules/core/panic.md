@@ -1,4 +1,4 @@
-# **Panic_Tables**
+# **Panic Tables**
 Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up! (See [TODO][todo])
 
 [todo]: /TODO.md
