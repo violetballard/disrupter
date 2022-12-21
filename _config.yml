@@ -19,8 +19,6 @@ header_pages:
    - platoons/platoon_card.md
    - platoons/starter.md
    - game_modes/main.md
-   - game_modes/lms.md
-   - game_modes/campaign.md
    - rules/optional/size_of_force.md
    - LICENSE.md
    - TODO.md
