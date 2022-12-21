@@ -1,4 +1,4 @@
-# **Building a Platoon**
+# **Platoons**
 All Platoons have the same base structure that can be adjusted up or down if you are changing your [Size of Force][size]. We suggest that Bots make up 50% of the force.
 
 [size]: /rules/optional/size_of_force.md
