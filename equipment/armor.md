@@ -9,7 +9,7 @@ Please pay attention to the formatting of these tables if you are submitting a n
 | :-: | :-: | :-: |
 |  60 |  2  |  1  |
 
-| **Description**                                |
+| **Description**                            |
 | ------------------------------------------ |
 | - Standard issue carbon fiber Combat Armor |
 
