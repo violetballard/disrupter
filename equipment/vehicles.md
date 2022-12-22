@@ -1,5 +1,4 @@
 # Vehicles
-
 Vehicles use a set of Stats (See [Rule 6](broken-reference)) very similar to that of [Armor](armor.md) with a few additions.
 
 * Armor (A, %)

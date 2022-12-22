@@ -1,5 +1,4 @@
 # Platoons
-
 All Platoons have the same base structure that can be adjusted up or down if you are changing your [Size of Force](../rules/size\_of\_force.md). We suggest that Bots make up 50% of the force.
 
 * Squad 0 - Command
@@ -15,7 +14,6 @@ All Platoons have the same base structure that can be adjusted up or down if you
   * Team/Vehicle B and/or C
 
 ## **Loadout**
-
 Loadout makes the biggest determination as to how a Platoon will play.
 
 You will need to adjust the loadout of the suggested Platoons based on your miniatures. Loadouts do not have to match the physical miniatures, especially if you are familiar with your Platoon Card, but for legibility it is really helpful for your miniatures to match your loadouts as much as possible.
