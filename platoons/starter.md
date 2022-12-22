@@ -23,9 +23,6 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 > 2 Soldiers - Power Armor, Pulse Rifle w/ GL\
 > 1 Bot - Basic Battlefield Robot, Laser Cutter
 
-\
-
-
 > ### **Squad 1 - Infantry**
 >
 > #### **Team A**
@@ -45,9 +42,6 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 > 2 Bots - Basic Battlefield Robot, Laser Carbine\
 > 1 Bot - Basic Battllefield Robot, Laser Cutter
 
-\
-
-
 > ### **Squad 2 - Infantry**
 >
 > #### **Team A**
@@ -66,9 +60,6 @@ Use the following links to look up Stats in order to complete your [Platoon Card
 > 1 Soldier - Combat Armor, Shotgun\
 > 2 Bots - Basic Battlefield Robot, Laser Carbine\
 > 1 Bot - Basic Battlefield Robot, Laser Cutter
-
-\
-
 
 > ### **Squad 3 - Inflatable Boats - Optional**
 >
