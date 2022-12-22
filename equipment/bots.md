@@ -12,4 +12,4 @@ Please pay attention to the formatting of these tables if you are submitting a n
 
 | **Descriptio**                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <p>- Entry level Bot<br>- Considered to be wearing Battle Dress for Weapon requirements (See <a href="armor.md">Armor</a>)</p> |
+| - Entry level Bot<br>- Considered to be wearing Battle Dress for Weapon requirements (See <a href="armor.md">Armor</a>) |
