@@ -5,15 +5,15 @@ This is a great Platoon for getting a Platoon on the Board and starting to play.
 Use the following links to look up Stats in order to complete your [Platoon Card](platoon\_card.md):
 
 * [Armor](../equipment/armor.md)
-* [Weapons](../equipment/weapons.md)
 * [Bots](../equipment/bots.md)
+* [Weapons](../equipment/weapons.md)
 * [Vehicles](../equipment/vehicles.md)
 
 ## **Suggested Miniatures for 2 Players**
 
-[30 ESTO Marines](https://www.etsy.com/listing/1208900159/esto-marines-for-tabletop-wargaming-epic)
+[ESTO Marines](https://wakesemporium.gumroad.com/l/SXXoY)
 
-[30 B1 Battle Bots](https://www.etsy.com/listing/1211439634/b1-battle-bots-expansion-for-tabletop)
+[B1 Battle Bots](https://wakesemporium.gumroad.com/l/gypsu)
 
 > ### **Squad 0 - Command**
 >
