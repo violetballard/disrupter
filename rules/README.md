@@ -76,7 +76,6 @@ All statistics are provided as a percentage likelihood of completing a risky Act
 | Armor (A)           | Likelihood of taking damage from Fire (See [Rule 16 - Firing](./#rule16.firing))                                                 | Equipment     |
 | Wounds (W)          | Number of Wounds taken before incapacitation or death (See [Campaign](../game\_modes/campaign.md))                               | Equipment     |
 | Movement (M)        | Number of hexes that can be traversed during a Movement Action (See [Rule 5 - Ruler](./#rule5.ruler) for Measurement Conversion) | Equipment     |
-|                     |                                                                                                                                  |               |
 
 _\[streamline] All Units only have 1 Wound, regardless of_ [_Equipment_](broken-reference)_. This makes the game more lethal, and it means that you no longer need to track Wounds on your_ [_Platoon Card_](../platoons/platoon\_card.md)_._
 
