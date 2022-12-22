@@ -77,7 +77,7 @@ All statistics are provided as a percentage likelihood of completing a risky Act
 | Wounds (W)          | Number of Wounds taken before incapacitation or death (See [Campaign](../game\_modes/campaign.md))                               | Equipment     |
 | Movement (M)        | Number of hexes that can be traversed during a Movement Action (See [Rule 5 - Ruler](./#rule5.ruler) for Measurement Conversion) | Equipment     |
 
-_\[streamline] All Units only have 1 Wound, regardless of_ [_Equipment_](broken-reference)_. This makes the game more lethal, and it means that you no longer need to track Wounds on your_ [_Platoon Card_](../platoons/platoon\_card.md)_._
+_\[streamline] All Units only have 1 Wound, regardless of_ [_Equipment_](broken-reference/)_. This makes the game more lethal, and it means that you no longer need to track Wounds on your_ [_Platoon Card_](../platoons/platoon\_card.md)_._
 
 ## **Rule 7 - Checks and Saves** <a href="#rule7" id="rule7"></a>
 
@@ -152,7 +152,7 @@ The Intelligence Briefing functions much like a session zero in a ttrpg. The Int
 The following decisions are first made during the Intelligence Briefing:
 
 * The number of players (see [Rule 1](./#rule1))
-* The specific rules being used for the game including the [Game Mode](broken-reference)
+* The specific rules being used for the game including the [Game Mode](broken-reference/)
 * The size and composition of forces, documented on [Platoon Cards](../platoons/platoon\_card.md)
 * The Board (see [Rule 2](./#rule2))
 
@@ -280,7 +280,6 @@ The attacker must have LOS on the target. The attacker makes an Instinct Check a
 | Attacker Instinct \[-] for next Turn |               |
 | _**Failure**_                        | _**Failure**_ |
 | No effect                            |               |
-|                                      |               |
 
 _\[streamline] Only the currently active Platoon makes Checks and Saves (See_ [_Rule 7_](./#rule7)_). They make Armor Saves during Reaction Fire, and they make Instinct Saves when necessary for Combat Actions._
 

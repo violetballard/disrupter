@@ -1,6 +1,6 @@
 # Panic Tables
 
-Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up! (See [TODO](../../TODO.md))
+Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up! (See [TODO](../TODO.md))
 
 > ### **Team**
 
@@ -27,7 +27,6 @@ Fuck if I know what status effects go in these tables right now. For now, the ru
 | 18  | Status Effect                                                                                                                                   |
 | 19  | Status Effect                                                                                                                                   |
 | 20  | Status Effect                                                                                                                                   |
-|     |                                                                                                                                                 |
 
 > ### **Platoon**
 
@@ -53,4 +52,3 @@ Fuck if I know what status effects go in these tables right now. For now, the ru
 | 18  | Status Effect |
 | 19  | Status Effect |
 | 20  | Status Effect |
-|     |               |
