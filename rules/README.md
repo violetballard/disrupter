@@ -57,7 +57,6 @@ Movement and Range are indicated in hex measurements (see [Rule 4 - Basing](./#r
 | Close (C) | Medium (M) | Long (L) |
 | :-------: | :--------: | :------: |
 |     1     |      2     |     3    |
-|           |            |          |
 
 ### **Ruler Distance** <a href="#rule.5.ruler" id="rule.5.ruler"></a>
 
