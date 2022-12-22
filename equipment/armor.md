@@ -9,7 +9,7 @@ Please pay attention to the formatting of these tables if you are submitting a n
 | :-: | :-: | :-: |
 |  60 |  2  |  1  |
 
-| Description                                |
+| **Description**                                |
 | ------------------------------------------ |
 | - Standard issue carbon fiber Combat Armor |
 
@@ -18,6 +18,6 @@ Please pay attention to the formatting of these tables if you are submitting a n
 | :-: | :-: | :-: |
 |  80 |  3  |  2  |
 
-| Description |
+| **Description** |
 | ----------- |
 |- Entry level Powered Armor<br/>- Provides active countermeasures, enhanced Wound protection, and augmented strength and speed |
