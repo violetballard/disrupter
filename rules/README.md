@@ -3,7 +3,7 @@
 _Rules tagged with \[streamline] exist to create a rules light version of the game. The main rules are a "full fat" wargame. Disrupter is flexible, and you should adapt different aspects of these rules as you see fit within your home game or commercial product. Disrupter is a generic, miniatures agnostic open source wargame system focused on customization._
 
 ### [mothership]
-### _Rules tagged with \[mothership] are tips for Wardens who may wish to incorporate aspects of Disrupter in their Mothership campaigns. YOU DO NOT NEED A COPY OF THE MOTHERSHIP RULES TO PLAY DISRUPTER. DISRUPTER **IS NOT** A LICENSED MOTHERSHIP PRODUCT. Much like how Striker was its own generic wargame that happened to include some Traveller hooks and equipment, Disrupter is its own game with Panic Engine in its bones. This came comes from Mothership and the Mothership community, but it is not a Mothership module._
+_Rules tagged with \[mothership] are tips for Wardens who may wish to incorporate aspects of Disrupter in their Mothership campaigns. YOU DO NOT NEED A COPY OF THE MOTHERSHIP RULES TO PLAY DISRUPTER. DISRUPTER **IS NOT** A LICENSED MOTHERSHIP PRODUCT. Much like how Striker was its own generic wargame that happened to include some Traveller hooks and equipment, Disrupter is its own game with Panic Engine in its bones. This came comes from Mothership and the Mothership community, but it is not a Mothership module._
 
 ## **Set Up** <a href="#setup" id="setup"></a>
 
