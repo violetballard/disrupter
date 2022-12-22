@@ -14,7 +14,7 @@ Individual Units are indinistinguishable; however, Weapons are what give your te
 Please pay attention to the formatting of these tables if you are submitting a new Weapon. We suggest writing them without the block quotes and then adding them when you are complete. At least for our preferred VS Code Markdown Table plugin, our table tab-completion does not like the blockquotes. However, the blockquotes make these tables legible.
 
 ## **Infantry Weapons**
-Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.\
+Many Infantry Weapons can be attached to [Vehicles](vehicles.md) as well.
 
 ### **Revolver**
 | T |  C  |  M  |  L  | Max |
