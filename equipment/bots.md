@@ -10,6 +10,6 @@ Please pay attention to the formatting of these tables if you are submitting a n
 | :-: | :-: | :-: |
 |  80 |  1  |  2  |
 
-| **Descriptio**                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
+| **Description**                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | - Entry level Bot<br>- Considered to be wearing Battle Dress for Weapon requirements (See <a href="armor.md">Armor</a>) |
