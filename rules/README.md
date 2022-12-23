@@ -5,7 +5,7 @@ _Rules tagged with \[streamline] exist to create a rules light version of the ga
 ### [mothership]
 _Rules tagged with \[mothership] are tips for Wardens who may wish to incorporate aspects of Disrupter in their Mothership campaigns. YOU DO NOT NEED A COPY OF THE MOTHERSHIP RULES TO PLAY DISRUPTER. DISRUPTER **IS NOT** A LICENSED MOTHERSHIP PRODUCT. Much like how Striker was its own generic wargame that happened to include some Traveller hooks and equipment, Disrupter is its own game with Panic Engine in its bones. This comes from Mothership and the Mothership community, but it is not a Mothership module._
 
-## **Set Up** <a href="#setup" id="setup"></a>
+## **Set Up**
 
 ### **Rule 1 - Number of Players** <a href="#rule1" id="rule1"></a>
 
