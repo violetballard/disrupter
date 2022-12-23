@@ -1,5 +1,7 @@
 # Platoons
-All Platoons have the same base structure that can be adjusted up or down if you are changing your [Size of Force](../rules/size\_of\_force.md). We suggest that Bots make up 50% of the force.
+All Platoons have the same base structure that can be adjusted up or down if you are changing your [Size of Force][rules]. We suggest that Bots make up 50% of the force.
+
+[size]: /rules/size_of_force.md
 
 * Squad 0 - Command
   * Team/Vehicle A - CO

@@ -1,8 +1,9 @@
 # Panic Tables
-Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up! (See [TODO](../TODO.md))
+Fuck if I know what status effects go in these tables right now. For now, the rule is to make it up! (See [TODO][todo])
 
-> ### **Team**
+[todo]: /TODO.md
 
+### **Team**
 | d20 | >Effect >                                                                                                                                       |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Surpressed, Cannot move or fire next turn                                                                                                       |
@@ -27,8 +28,7 @@ Fuck if I know what status effects go in these tables right now. For now, the ru
 | 19  | Status Effect                                                                                                                                   |
 | 20  | Status Effect                                                                                                                                   |
 
-> ### **Platoon**
-
+### **Platoon**
 | d20 | Effect        |
 | --- | ------------- |
 | 1   | Status Effect |
