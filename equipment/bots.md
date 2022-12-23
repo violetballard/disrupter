@@ -18,4 +18,4 @@ Please pay attention to the formatting of these tables if you are submitting a n
 [rule9]: /rules#rule9.classes
 [rule14]: /rules#rule14
 [rule16]: /rules#rule16.firing
-[armor]: /equipment/armor
+[armor]: /equipment/armor.md
