@@ -1,5 +1,5 @@
 # Vehicles
-Vehicles use a set of Stats (See [Rule 6](broken-reference)) very similar to that of [Armor](armor.md) with a few additions.
+Vehicles use a set of Stats (See [Rule 6][rule6]) very similar to that of [Armor](armor.md) with a few additions.
 
 * Armor (A, %)
 * Movement (M, #)
@@ -24,3 +24,9 @@ Please pay attention to the formatting of these tables if you are submitting a n
 | Infantry onboard are able to Fire (See <a href="broken-reference">Rule 16 - Firing</a>) their Weapons using Infantry LOS (See <a href="broken-reference">Rule 12</a>)                                                                                             |
 | An Infantry Team within Close Range (See <a href="broken-reference">Rule 5</a>) may use a Movement or Battlefield Action (See <a href="broken-reference">Rule 14</a> and <a href="broken-reference">Rule 16</a>) to attach to the raft and Move as one large Team |
 | Uses the Armor Stats for the Armor worn by the Infantry occupying the Raft (See <a href="broken-reference">Rule 6<a>)                                                                                                                                             |
+
+[rule6]: /rules#rule6
+[rule14]:
+[rule5]:
+[rule12]:
+[rule16]:
