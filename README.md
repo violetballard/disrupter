@@ -1,5 +1,5 @@
 # **Disrupter**
-## *Version 0.2*
+## *Version 0.2.1*
 
 Disrupter is an open source set of rules for 10mm miniatures wargaming. It is platoon scale and infantry focused. Players take the role of a squad of veteran freelance mercenaries in the future. They have automated their forces, so half of their platoon consists of sophisticated, semi-autonomous battlefield robots.
 
