@@ -13,7 +13,7 @@
         - Destruction - Destroy 3 Buildings to Win, Give NCOs plastic explosives
         - Radio Tower - A Radio Tower in the center of the map is blocking all radio communication until it is destroyed, otherwise a skirmish
     - Platoon Card
-    - Indirect Fire Rules
+    - Panic Table
     
 ## **Minor**
     - *Weapons*

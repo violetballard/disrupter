@@ -25,7 +25,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | T |  C  |  M  |  L  | Max |
 | - | :-: | :-: | :-: | :-: |
 | 0 |  1  |  1  |  1  |  3  |
-|   |     |     |     |     |
 
 | **Description**                                     |
 | --------------------------------------------------- |
@@ -37,7 +36,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | T |  C  |  M  |  L  | Max |
 | - | :-: | :-: | :-: | :-: |
 | 0 |  3  |  1  |  0  |  2  |
-|   |     |     |     |     |
 
 | **Description** |
 | --------------- |
@@ -47,7 +45,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 |  T  |  C  |  M  |  L  |    Max    |
 | :-: | :-: | :-: | :-: | :-------: |
 |  2  |  1  |  0  |  0  | 2 (Throw) |
-|     |     |     |     |           |
 
 | **Description**                                                                                     |
 | --------------------------------------------------------------------------------------------------- |
@@ -61,7 +58,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | T |  C  |  M  |  L  | Max |
 | - | :-: | :-: | :-: | :-: |
 | 0 |  2  |  2  |  1  |  4  |
-|   |     |     |     |     |
 
 | **Description**                                                              |
 | ---------------------------------------------------------------------------- |
@@ -98,7 +94,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | T |  C  |  M  |  L  | Max |
 | - | :-: | :-: | :-: | :-: |
 | 0 |  3  |  3  |  1  |  3  |
-|   |     |     |     |     |
 
 | **Description**                                                             |
 | --------------------------------------------------------------------------- |
@@ -127,6 +122,7 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | Requires Battle Dress (See [Armor][armor])                                                        |
 | Cannot Move and Fire in the same turn See ([Rule 11][rule11])                                     |
 | Does not require an Instinct Check                                                                |
+| Shoots in a straight line (does not use LOS)                                                      |
 | Penetrates through targets, all obstacles ignored, every Unit in its path must make an Armor Save |
 | Takes 3 Turns to recharge                                                                         |
 
@@ -134,7 +130,6 @@ Many Infantry Weapons can be attached to [Vehicles][vehicles] as well.
 | T  |  C  |  M  |  L  |    Max   |
 | -- | :-: | :-: | :-: | :------: |
 | 10 |  2  |  10 |  10 | Infinite |
-|    |     |     |     |          |
 
 | Description                                                                              |
 | ---------------------------------------------------------------------------------------- |
