@@ -1,5 +1,5 @@
 # **To Do**
-## **Major**
+## **Rules**
     - Game Modes
         - Campaign - Paying off Debt
             - Custom Platoons Using Budget (in Debt Units)
@@ -15,7 +15,7 @@
     - Platoon Card
     - Panic Table Status Effects
     
-## **Minor**
+## **Equipment**
     - *Weapons*
         - Plastic Explosives
         - Energy Weapons
@@ -32,6 +32,7 @@
             - Heat Gun
             - Panic Bomb
             - Tranq Gun
+            - Foam Gun
     - *Armor*
         - More fully featured Battle Dress suitable for higher damage level weapons
             - Tech level equivalent to Starship Troopers by Robert Heinlein
@@ -40,5 +41,7 @@
         - More fully featured bots suitable for higher damage level weapons
         - Robots who can give orders to other robots
             - Robots are programmed to always be subservient to humans, cannot give orders to them
+    - *Vehicles*
+        - Need a selection of vehicles
     - *Platoons*
         - Platoon(s) using the higher powered equipment
