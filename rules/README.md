@@ -281,7 +281,7 @@ _\[streamline] \[variant] Player Facing Rolls are used. All weapons automaticall
 
 If a whole Team is fired on, only one Armor Save (See [Rule 7](./#rule7)) is made for all of the Units with the same Armor Stat (See [Rule 6](./#rule6)).
 
-If multiple Units with the same Instinct Stat (See [Rule 6](./#rule6)) are firing at the same target only one Instinct Check (See [Rule 7](./#rule7)) is made.
+If multiple Units with the same Instinct Stat (See [Rule 6](./#rule6)) are firing at the same target only one Instinct Check (See [Rule 7](./#rule7)) is made. [+] is given to this role if multiple units attack the same target.
 
 The number of Wounds inflicted with a Successful attack is listed for each range for each [Weapon][weapons].
 
