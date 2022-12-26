@@ -298,6 +298,6 @@ Giving Orders is automatically Successful.
 
 CO orders to NCOs with Code Words are executed immediately (See [Rule 10](./#rule10)). New CO to NCO orders are executed starting the next turn. All NCO orders to Squads occur immediately.
 
-Officers can attempt to Rally Teams within Close Range (See [Rule5](./#rule5)) with a Successful Instinct Check (See [Rule 6](./#rule6) and [Rule 7](./#rule7)). Rallying troops brings Routed Teams (See [Rule 8](./#rule8) and [Panic]([panic]) under the Command of the Rallying Officer.
+Officers can attempt to Rally Teams within Close Range (See [Rule5](./#rule5)) with a Successful Instinct Check (See [Rule 6](./#rule6) and [Rule 7](./#rule7)). Rallying troops brings Routed Teams (See [Rule 8](./#rule8) and [Panic][panic]) under the Command of the Rallying Officer.
 
-_\[streamline] Rally Checks are automatically Successful. And, ff you aren't tracking Stress and making Panic Checks, you will never even need to Rally Teams._
+_\[streamline] Rally Checks are automatically Successful. And, if you aren't tracking Stress and making Panic Checks, you will never even need to Rally Teams._
