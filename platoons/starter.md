@@ -19,48 +19,48 @@ Complete your [Platoon Card][card] using the Stats (See [Rule 6][rule6]) from th
 ### **Squad 0 - Command**
 
 #### **Team A**
-1 CO - Combat Armor, Revolver
-2 Soldiers - Power Armor, Pulse Rifle w/ GL
-1 Bot - Basic Battlefield Robot, Laser Cutter
+- 1 CO - Combat Armor, Revolver
+- 2 Soldiers - Power Armor, Pulse Rifle w/ GL
+- 1 Bot - Basic Battlefield Robot, Laser Cutter
 
 ### **Squad 1 - Infantry**
 
 #### **Team A**
-1 NCO - Power Armor, Pulse Rifle w/ GL, Revolver
-3 Soldiers - Combat Armor, Pulse Rifle
+- 1 NCO - Power Armor, Pulse Rifle w/ GL, Revolver
+- 3 Soldiers - Combat Armor, Pulse Rifle w/ GL
 
 #### **Team B**
-1 Soldier - Combat Armor, Flamethrower
-2 Bots - Basic Battlefield Robot, Laser Carbine
-1 Bot - Basical Battlefield Robot, Rocket Launcher
+- 1 Soldier - Combat Armor, Flamethrower
+- 2 Bots - Basic Battlefield Robot, Laser Carbine
+- 1 Bot - Basical Battlefield Robot, Rocket Launcher
 
 #### **Team C**
-1 Soldier - Power Armor, Heavy Machine Gun
-2 Bots - Basic Battlefield Robot, Laser Carbine
-1 Bot - Basic Battllefield Robot, Laser Cutter
+- 1 Soldier - Power Armor, Heavy Machine Gun
+- 2 Bots - Basic Battlefield Robot, Laser Carbine
+- 1 Bot - Basic Battllefield Robot, Laser Cutter
 
 ### **Squad 2 - Infantry**
 
 #### **Team A**
-1 NCO - Power Armor, Pulse Rifle w/GL, Revolver
-3 Soldiers - Combat Armor, Pulse Rifle w/ GL
+- 1 NCO - Power Armor, Pulse Rifle w/GL, Revolver
+- 3 Soldiers - Combat Armor, Pulse Rifle w/ GL
 
 #### **Team B**
-1 Soldier - Combat Armor, Pulse Rifle w/ GL
-2 Bots - Basic Battlefield Robot, Laser Carbine
-1 Bot - Basic Battlefiled Robot, Rocket Launcher
+- 1 Soldier - Combat Armor, Flamethrower
+- 2 Bots - Basic Battlefield Robot, Laser Carbine
+- 1 Bot - Basic Battlefield Robot, Rocket Launcher
 
 #### **Team C**
-1 Soldier - Combat Armor, Shotgun\
-2 Bots - Basic Battlefield Robot, Laser Carbine
-1 Bot - Basic Battlefield Robot, Laser Cutter
+- 1 Soldier - Power Armor, Heavy Machine Gun
+- 2 Bots - Basic Battlefield Robot, Laser Carbine
+- 1 Bot - Basic Battlefield Robot, Laser Cutter
 
 ### **Squad 3 - Inflatable Boats - Optional**
 
 #### **Boat A**
-1 NCO - Power Armor, Pulse Rifle, Rocket Launcher, Revolver
-3 Bots - Basic Battle Field Robot, Laser Carbine
+- 1 NCO - Power Armor, Pulse Rifle, Rocket Launcher, Revolver
+- 3 Bots - Basic Battlefield Robot, Laser Carbine
 
 #### **Boat B**
-1 Soldier - Combat Armor, Pulse Rifle, Rocket Launcher
-3 Bots - Basic Battle Field Robot, Laser Carbine
+- 1 Soldier - Combat Armor, Pulse Rifle, Rocket Launcher
+- 3 Bots - Basic Battlefield Robot, Laser Carbine
